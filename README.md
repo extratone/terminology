@@ -1,3 +1,5 @@
+[![Terminology Folder](/screens/terminologyfolder.png)](https://apps.apple.com/us/app/terminology-dictionary/id687798859)
+
 # Custom Terminology Actions
 Updated `04212023-013356`
 
