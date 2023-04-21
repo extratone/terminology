@@ -7,7 +7,7 @@ Updated `04212023-013356`
 
 ---
 
-
+[![Drafts Definition Action](https://user-images.githubusercontent.com/43663476/233560921-83692f85-bc29-44d5-8c2f-6b7a990dd90f.jpeg)](https://github.com/extratone/terminology/issues/3)
 
 ## Drafts Definition
 
