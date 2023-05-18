@@ -46,3 +46,10 @@ bear://x-callback-url/create?title=[[term]]&tags=vocabulary&open_note=yes&text=-
 terminology://x-callback-url/importAction?name=Bear%20Vocabulary&shortName=Bear&description=Send%20term%20and%20full%20Markdown%20definitions%20to%20Bear.&urlTemplate=bear://x-callback-url/create?title%3D%5B%5Bterm%5D%5D%26tags%3Dvocabulary%26open_note%3Dyes%26text%3D-%2520%5BTerminology%5D(%5B%5Bterm_url%5D%5D)%250A%250A---%250A%250A%5B%5Bdefinitions%5D%5D%250A%250A%5B%5Bnote%5D%5D&dispatchType=0
 ```
 
+---
+
+## Action Tag Reference
+
+- Sourced from [**Agiletortoise's Zendesk**](https://agiletortoise.zendesk.com/hc/en-us/articles/200689454-Terminology-Tag-Reference)
+
+<script src="https://gist.github.com/extratone/34bb70fd98dd4701c189c377f49bc98c.js"></script>
