@@ -48,8 +48,32 @@ terminology://x-callback-url/importAction?name=Bear%20Vocabulary&shortName=Bear&
 
 ---
 
+[![DayOne Vocabulary Entry Action Result](/terminology/screens/dayone)](https://github.com/extratone/terminology/issues/7)
+
+## [DayOne Vocabulary Entry](terminology://x-callback-url/importAction?name=Day%20One%20Vocabulary%20Entry&shortName=DayOne&description=&urlTemplate=dayone://post?entry%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D%26journal%3DDavod%26tags%3Dvocabulary&dispatchType=0)
+
+- **Name** - `DayOne Vocabulary Entry`
+- Shortname - `DayOne`
+
+### Template
+
+```
+dayone://post?entry=[[definitions]]%0A[[note]]&journal=Davod&tags=vocabulary
+```
+
+```
+terminology://x-callback-url/importAction?name=Day%20One%20Vocabulary%20Entry&shortName=DayOne&description=&urlTemplate=dayone://post?entry%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D%26journal%3DDavod%26tags%3Dvocabulary&dispatchType=0
+```
+
+---
+
 ## Action Tag Reference
 
-- Sourced from [**Agiletortoise's Zendesk**](https://agiletortoise.zendesk.com/hc/en-us/articles/200689454-Terminology-Tag-Reference)
+*Sourced from [**Agiletortoise's Zendesk**](https://agiletortoise.zendesk.com/hc/en-us/articles/200689454-Terminology-Tag-Reference)*
 
-<script src="https://gist.github.com/extratone/34bb70fd98dd4701c189c377f49bc98c.js"></script>
+- `[[term]]` : The current term being browsed in the app.
+- `[[term_url]]` : A URL that can be used to open Terminology directly to the current term on any device with Terminology installed.
+- `[[termly_url]]` : ~~The URL for the term at [Term.ly](http://term.ly/), Terminology’s online companion. This link is useful to share definitions with people who do not have Terminology or an iOS device, for that matter.~~
+- `[[definition]]` : The full text of the definitions and related words currently being browsed, in [Markdown](http://daringfireball.net/projects/markdown/) format.
+- `[[note]]` : The text of a user note attached to the current term.
+- `[[clipboard]]` : Current contents of the iOS clipboard.
