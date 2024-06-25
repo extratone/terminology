@@ -14,8 +14,8 @@ Updated `04212023-013356`
 
 ## [Drafts Definition](terminology://x-callback-url/importAction?name=Drafts-definition&shortName=Drafts&description=Send%20term%20and%20full%20Markdown%20definitions%20to%20Drafts.&urlTemplate=drafts://create?text%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D%26tag%3Dvocabulary&dispatchType=0) [#3](https://github.com/extratone/terminology/issues/3)
 
-- **Name** - `Drafts Definition`
-- Shortname - `Drafts`
+- **Name**: `Drafts Definition`
+- Shortname: `Drafts`
 
 ### Template
 
@@ -33,8 +33,8 @@ terminology://x-callback-url/importAction?name=Drafts-definition&shortName=Draft
 
 ## [Bear Vocabulary](terminology://x-callback-url/importAction?name=Bear%20Vocabulary&shortName=Bear&description=Send%20term%20and%20full%20Markdown%20definitions%20to%20Bear.&urlTemplate=bear://x-callback-url/create?title%3D%5B%5Bterm%5D%5D%26tags%3Dvocabulary%26open_note%3Dyes%26text%3D-%2520%5BTerminology%5D(%5B%5Bterm_url%5D%5D)%250A%250A---%250A%250A%5B%5Bdefinitions%5D%5D%250A%250A%5B%5Bnote%5D%5D&dispatchType=0) [#4](https://github.com/extratone/terminology/issues/4)
 
-- **Name** - `Bear Vocabulary`
-- Shortname - `Bear`
+- **Name**: `Bear Vocabulary`
+- Shortname:  `Bear`
 
 ### Template
 
@@ -50,10 +50,10 @@ terminology://x-callback-url/importAction?name=Bear%20Vocabulary&shortName=Bear&
 
 [![DayOne Vocabulary Entry Action Result](/terminology/screens/dayone)](https://github.com/extratone/terminology/issues/7)
 
-## [DayOne Vocabulary Entry](terminology://x-callback-url/importAction?name=Day%20One%20Vocabulary%20Entry&shortName=DayOne&description=&urlTemplate=dayone://post?entry%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D%26journal%3DDavod%26tags%3Dvocabulary&dispatchType=0)
+## [DayOne Vocabulary Entry](terminology://x-callback-url/importAction?name=Day%20One%20Vocabulary%20Entry&shortName=DayOne&description=&urlTemplate=dayone://post?entry%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D%26journal%3DDavod%26tags%3Dvocabulary&dispatchType=0) [#7](https://github.com/extratone/terminology/issues/7)
 
-- **Name** - `DayOne Vocabulary Entry`
-- Shortname - `DayOne`
+- **Name**: `DayOne Vocabulary Entry`
+- Shortname: `DayOne`
 
 ### Template
 
@@ -63,6 +63,23 @@ dayone://post?entry=[[definitions]]%0A[[note]]&journal=Davod&tags=vocabulary
 
 ```
 terminology://x-callback-url/importAction?name=Day%20One%20Vocabulary%20Entry&shortName=DayOne&description=&urlTemplate=dayone://post?entry%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D%26journal%3DDavod%26tags%3Dvocabulary&dispatchType=0
+```
+
+---
+
+[![Ulysses Action Result](/screens/ulysses.png)](https://github.com/extratone/terminology/issues/8)
+
+## [Ulyssses](terminology://x-callback-url/importAction?name=Ulysses&shortName=ulys&description=&urlTemplate=ulysses://x-callback-url/new-sheet?text%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D%26%26group%3DlcuQ6xHzUjybHkDy_QEAww%26%26format%3Dmarkdown&dispatchType=0) [#8](https://github.com/extratone/terminology/issues/8)
+
+- **Name**: `Ulysses`
+- Shortname: `uls`
+
+```
+ulysses://x-callback-url/new-sheet?text=[[definitions]]%0A[[note]]&&group=lcuQ6xHzUjybHkDy_QEAww&&format=markdown
+```
+
+```
+terminology://x-callback-url/importAction?name=Ulysses&shortName=ulys&description=&urlTemplate=ulysses://x-callback-url/new-sheet?text%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D%26%26group%3DlcuQ6xHzUjybHkDy_QEAww%26%26format%3Dmarkdown&dispatchType=0terminology://x-callback-url/importAction?name=Ulysses&shortName=ulys&description=&urlTemplate=ulysses://x-callback-url/new-sheet?text%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D%26%26group%3DlcuQ6xHzUjybHkDy_QEAww%26%26format%3Dmarkdown&dispatchType=0
 ```
 
 ---
