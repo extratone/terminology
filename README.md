@@ -84,6 +84,23 @@ terminology://x-callback-url/importAction?name=Ulysses&shortName=ulys&descriptio
 
 ---
 
+[![Craft Vocabulary Action Result](/screens/craft.png)](https://github.com/extratone/terminology/issues/9)
+
+## [Craft Vocabulary](terminology://x-callback-url/importAction?name=Craft%20Vocabulary&shortName=Craft&description=&urlTemplate=craftdocs://createdocument?spaceId%3Dd64c60d3-b1ba-bda2-5e7a-5c1baae7751f%26title%3D%5B%5Bterm%5D%5D%26content%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D%26folderId%3D38BEF607-D561-4854-BE97-E8A765FF8086&dispatchType=0terminology://x-callback-url/importAction?name=Craft%20Vocabulary&shortName=Craft&description=&urlTemplate=craftdocs://createdocument?spaceId%3Dd64c60d3-b1ba-bda2-5e7a-5c1baae7751f%26title%3D%5B%5Bterm%5D%5D%26content%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D%26folderId%3D38BEF607-D561-4854-BE97-E8A765FF8086&dispatchType=0) [#9](https://github.com/extratone/terminology/issues/9)
+
+- **Name**: `Craft Vocabulary`
+- Shortname: `Craft`
+
+```
+craftdocs://createdocument?spaceId=d64c60d3-b1ba-bda2-5e7a-5c1baae7751f&title=[[term]]&content=[[definitions]]%0A[[note]]&folderId=38BEF607-D561-4854-BE97-E8A765FF8086
+```
+
+```
+terminology://x-callback-url/importAction?name=Craft%20Vocabulary&shortName=Craft&description=&urlTemplate=craftdocs://createdocument?spaceId%3Dd64c60d3-b1ba-bda2-5e7a-5c1baae7751f%26title%3D%5B%5Bterm%5D%5D%26content%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D%26folderId%3D38BEF607-D561-4854-BE97-E8A765FF8086&dispatchType=0terminology://x-callback-url/importAction?name=Craft%20Vocabulary&shortName=Craft&description=&urlTemplate=craftdocs://createdocument?spaceId%3Dd64c60d3-b1ba-bda2-5e7a-5c1baae7751f%26title%3D%5B%5Bterm%5D%5D%26content%3D%5B%5Bdefinitions%5D%5D%250A%5B%5Bnote%5D%5D%26folderId%3D38BEF607-D561-4854-BE97-E8A765FF8086&dispatchType=0
+```
+
+---
+
 ## Action Tag Reference
 
 *Sourced from [**Agiletortoise's Zendesk**](https://agiletortoise.zendesk.com/hc/en-us/articles/200689454-Terminology-Tag-Reference)*
